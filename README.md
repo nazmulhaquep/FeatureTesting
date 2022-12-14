@@ -3,14 +3,14 @@
 ## Laravel Feature Tested
 
 #Faker with factory & seeder working
-php artisan make:factory TestFactory --model=Test
-php artisan make:seeder TestSeeder
-php artisan db:seed --class=TestSeeder
+##php artisan make:factory TestFactory --model=Test
+##php artisan make:seeder TestSeeder
+##php artisan db:seed --class=TestSeeder
 
 #Faaker without Factory Using Seeder working 
 //Seeder Class Name: TestSeeder
-php artisan make:seeder TestSeeder
-php artisan db:seed --class=TestSeeder
+##php artisan make:seeder TestSeeder
+##php artisan db:seed --class=TestSeeder
 
 ## Learning Laravel
 
